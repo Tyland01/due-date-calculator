@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmarsysCalculatorProject1", "EmarsysCalculatorProject1\EmarsysCalculatorProject1.csproj", "{713C9397-1BA5-4DDC-9D1C-01E05959A6D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmarsysCalculatorProjectTest", "..\EmarsysCalculatorProjectTest\EmarsysCalculatorProjectTest.csproj", "{AEE989A0-F694-4DE2-982C-8D4DBE2AB5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713C9397-1BA5-4DDC-9D1C-01E05959A6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713C9397-1BA5-4DDC-9D1C-01E05959A6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713C9397-1BA5-4DDC-9D1C-01E05959A6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713C9397-1BA5-4DDC-9D1C-01E05959A6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE989A0-F694-4DE2-982C-8D4DBE2AB5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE989A0-F694-4DE2-982C-8D4DBE2AB5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE989A0-F694-4DE2-982C-8D4DBE2AB5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE989A0-F694-4DE2-982C-8D4DBE2AB5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
